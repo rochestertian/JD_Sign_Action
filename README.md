@@ -5,12 +5,12 @@
 > 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
 
 
-## 触发方式
+## 触发方式：
 * 点亮`Star`
 * 凌晨4点定时执行
 *  自定义：.github/workflows/work.yaml 编辑
 
-## 注意问题
+## 注意问题：
 
 > **问题一：[项目Fork后定时任务没有执行](https://github.com/ZHDeveloper/JD_Sign_Action/issues/3)**
 > 
